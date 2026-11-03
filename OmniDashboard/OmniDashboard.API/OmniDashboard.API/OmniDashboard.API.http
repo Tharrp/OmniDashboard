@@ -1,0 +1,6 @@
+@OmniDashboard.API_HostAddress = http://localhost:5053
+
+GET {{OmniDashboard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
