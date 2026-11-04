@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniDashboard.API", "OmniDashboard.API\OmniDashboard.API.csproj", "{553EF901-0F2D-438C-8524-E2426D82FABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniDashboard.Core", "OmniDashboard.Core\OmniDashboard.Core.csproj", "{BED7EC82-03A8-46E6-8852-A061DCB85BF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{553EF901-0F2D-438C-8524-E2426D82FABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{553EF901-0F2D-438C-8524-E2426D82FABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{553EF901-0F2D-438C-8524-E2426D82FABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED7EC82-03A8-46E6-8852-A061DCB85BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED7EC82-03A8-46E6-8852-A061DCB85BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED7EC82-03A8-46E6-8852-A061DCB85BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED7EC82-03A8-46E6-8852-A061DCB85BF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
