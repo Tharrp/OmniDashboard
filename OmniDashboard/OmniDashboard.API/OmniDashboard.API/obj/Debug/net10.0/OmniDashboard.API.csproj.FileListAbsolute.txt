@@ -31,3 +31,4 @@ C:\Users\hakta\Documents\GitHub\OmniDashboard\OmniDashboard.API\OmniDashboard.AP
 C:\Users\hakta\Documents\GitHub\OmniDashboard\OmniDashboard.API\OmniDashboard.API\obj\Debug\net10.0\OmniDashboard.API.pdb
 C:\Users\hakta\Documents\GitHub\OmniDashboard\OmniDashboard.API\OmniDashboard.API\obj\Debug\net10.0\OmniDashboard.API.genruntimeconfig.cache
 C:\Users\hakta\Documents\GitHub\OmniDashboard\OmniDashboard.API\OmniDashboard.API\obj\Debug\net10.0\ref\OmniDashboard.API.dll
+C:\Users\hakta\Documents\GitHub\OmniDashboard\OmniDashboard.API\OmniDashboard.API\obj\Debug\net10.0\OmniDashboard.API.sourcelink.json
